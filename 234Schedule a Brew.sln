@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Schedule_a_Brew", "234Schedule a Brew\Schedule_a_Brew.csproj", "{D08877FB-CD6D-4AAF-8488-4D55959C3D59}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bitsTests", "bitsTests\bitsTests.csproj", "{F7E00E09-3504-412A-9092-7EC1D5A8F51F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D08877FB-CD6D-4AAF-8488-4D55959C3D59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D08877FB-CD6D-4AAF-8488-4D55959C3D59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D08877FB-CD6D-4AAF-8488-4D55959C3D59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D08877FB-CD6D-4AAF-8488-4D55959C3D59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7E00E09-3504-412A-9092-7EC1D5A8F51F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7E00E09-3504-412A-9092-7EC1D5A8F51F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7E00E09-3504-412A-9092-7EC1D5A8F51F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7E00E09-3504-412A-9092-7EC1D5A8F51F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9CDC6892-A5F2-46E5-B73F-40BBC112E5A5}
+	EndGlobalSection
+EndGlobal
