@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Schedule_a_Brew", "234Sched
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bitsTests", "bitsTests\bitsTests.csproj", "{F7E00E09-3504-412A-9092-7EC1D5A8F51F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScheduleABrewAPI", "ScheduleABrewAPI\ScheduleABrewAPI.csproj", "{E747A254-2BCE-4D58-811A-FAF72696501B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{F7E00E09-3504-412A-9092-7EC1D5A8F51F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F7E00E09-3504-412A-9092-7EC1D5A8F51F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F7E00E09-3504-412A-9092-7EC1D5A8F51F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E747A254-2BCE-4D58-811A-FAF72696501B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E747A254-2BCE-4D58-811A-FAF72696501B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E747A254-2BCE-4D58-811A-FAF72696501B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E747A254-2BCE-4D58-811A-FAF72696501B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
